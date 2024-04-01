@@ -1,0 +1,14 @@
+C:\Users\Qarib\Desktop\c#\ClassesLesson\bin\Debug\net6.0\ClassesLesson.exe
+C:\Users\Qarib\Desktop\c#\ClassesLesson\bin\Debug\net6.0\ClassesLesson.deps.json
+C:\Users\Qarib\Desktop\c#\ClassesLesson\bin\Debug\net6.0\ClassesLesson.runtimeconfig.json
+C:\Users\Qarib\Desktop\c#\ClassesLesson\bin\Debug\net6.0\ClassesLesson.dll
+C:\Users\Qarib\Desktop\c#\ClassesLesson\bin\Debug\net6.0\ClassesLesson.pdb
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.AssemblyInfoInputs.cache
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.AssemblyInfo.cs
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.csproj.CoreCompileInputs.cache
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.dll
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\refint\ClassesLesson.dll
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.pdb
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ClassesLesson.genruntimeconfig.cache
+C:\Users\Qarib\Desktop\c#\ClassesLesson\obj\Debug\net6.0\ref\ClassesLesson.dll
